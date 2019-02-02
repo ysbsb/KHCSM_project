@@ -1,6 +1,6 @@
 # KHCSM_project
 
-This is a project page of Kyung Hee University KHCSM project, making VR games and contents.
+This is a project page of Kyung Hee University KHCSM project.
 
 <br>
 
@@ -32,17 +32,11 @@ This is a project page of Kyung Hee University KHCSM project, making VR games an
 
 (expected)
 
+- Unity Environment Settings
+
 - coursera Unity XR course
 
 - C# programming
-
-- Modeling
-
-- Super Stardust
-
-- Arrow Game
-
-- [Post about VR and project](http://subinlab.github.io/KHCSM_project/) (Not yet)
 
 <br>
 
